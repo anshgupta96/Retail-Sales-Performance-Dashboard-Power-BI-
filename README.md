@@ -1,4 +1,5 @@
 **Retail Sales Performance Dashboard**
+
 This project involves data cleaning using Python and dashboard creation in Power BI to analyze retail sales performance.
 
 Key Features:
