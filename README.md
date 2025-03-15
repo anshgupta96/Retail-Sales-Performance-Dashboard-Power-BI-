@@ -10,6 +10,7 @@ Built an interactive Power BI dashboard displaying $1.62M in total sales, segmen
 Visualized sales trends, category-wise sales, and revenue growth over time, helping identify key insights for business decision-making.
 
 Tools & Technologies:
-Python (Pandas) – Data cleaning and preprocessing.
 
-Power BI – Dashboard creation and data visualization.
+**Python** (Pandas) – Data cleaning and preprocessing.
+
+**Power BI** – Dashboard creation and data visualization.
